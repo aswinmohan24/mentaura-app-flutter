@@ -22,7 +22,7 @@ It leverages **AI-powered emotion detection**, personalized recommendations, and
 - Riverpod (State Management)  
 
 ### **Backend** 
-- Node.js (Microservices for APIs)  
+- Node.js (for APIs)  
 - MongoDB (Flexible storage for user and mood logs)  
 
 ### **Integrations**
